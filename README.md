@@ -12,3 +12,7 @@ Automate server infrastructure
 ```bash
   ansible-playbook -i inventory playbooks/xx.yml
 ```
+
+## Optional
+
+- [Ansible Semaphore UI](https://www.semui.co/)
