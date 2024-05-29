@@ -1,0 +1,7 @@
+[servers]
+lxc_app ansible_host=xx.xx.xx.xx ansible_port=xxx
+vm_app ansible_host=xx.xx.xx.xx ansible_port=xxx
+
+[all:vars]
+ansible_ssh_user=root
+ansible_ssh_private_key_file=~/private_key
